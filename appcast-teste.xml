@@ -3,6 +3,16 @@
     <channel>
         <title>AutoCut Lab</title>
         <item>
+            <title>AutoCut Lab 0.3.3</title>
+            <pubDate>Mon, 12 Oct 2026 22:57:10 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Seleção livre na transcrição: arraste por vários parágrafos, duplo clique numa palavra ou ⌘A para selecionar tudo</li><li>Edição inteligente mais certeira: tira quem planeja o post em voz alta (&quot;vou usar essa CTA&quot;, &quot;tenho que postar&quot;) e a mesma chamada repetida</li><li>Versões com datas diferentes ficam todas, para você escolher qual usar</li><li>Um vídeo só não é mais dividido em vários com espaços vazios</li><li>Correção: &quot;…além de uma pose&quot; não perde mais o fim da frase</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.3-teste/AutoCut-Lab-Teste-0.3.3.zip" sparkle:edSignature="q4Dv/kWvO4NAuTFlnUSBMXQhO60ntCdz3aDHsEaoNLiFi5Pqeaw43ADlcByOoSQK2l7bhqhXsapHyhy1MNKXCQ==" length="29148041" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>AutoCut Lab 0.3.2</title>
             <pubDate>Mon, 12 Oct 2026 20:49:31 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
