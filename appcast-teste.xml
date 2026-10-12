@@ -2,5 +2,15 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>AutoCut Lab</title>
+        <item>
+            <title>AutoCut Lab 0.3.2</title>
+            <pubDate>Mon, 12 Oct 2026 20:49:31 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Correção: o download da IA não é mais interrompido sozinho</li><li>Os relatórios agora levam o projeto inteiro (comprimido), mesmo em vídeos longos</li><li>Visual novo, no estilo do Caption Lab, com a engrenagem dos Ajustes ao lado do nome</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.2-teste/AutoCut-Lab-Teste-0.3.2.zip" sparkle:edSignature="wsLJObOil+2212mtt3WUokl1101XKA8LLD/2QXX8txLqU8U7FgDNryjn5idIPsqAp47dB088J/yAcL41zITgCg==" length="29126848" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
