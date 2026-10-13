@@ -3,6 +3,16 @@
     <channel>
         <title>AutoCut Lab</title>
         <item>
+            <title>AutoCut Lab 0.3.4</title>
+            <pubDate>Tue, 13 Oct 2026 11:27:30 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.3.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Seu trabalho fica guardado: se o AutoCut fechar ou travar, ao abrir o mesmo projeto ele volta como estava (cortes, trechos trazidos de volta e a transcrição)</li><li>Correção: a IA responde uma pergunta de cada vez (o AutoCut podia fechar ao arrastar para o Final Cut com a IA rodando)</li><li>Seleção livre na transcrição, regras novas da edição inteligente e datas diferentes como opções (da 0.3.3)</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.4-teste/AutoCut-Lab-Teste-0.3.4.zip" sparkle:edSignature="kGEOPqfCCgoiHDzPiQLiar8a2vnIACafhUEe3c2pI8u0z7/XWZlj4Y1i5wSYeHzjCjbvliz4MUvczUTNAYyGCQ==" length="29229414" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>AutoCut Lab 0.3.3</title>
             <pubDate>Mon, 12 Oct 2026 22:57:10 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
