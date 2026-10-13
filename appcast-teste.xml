@@ -3,6 +3,16 @@
     <channel>
         <title>AutoCut Lab</title>
         <item>
+            <title>AutoCut Lab 0.3.6</title>
+            <pubDate>Tue, 13 Oct 2026 18:30:17 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>0.3.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>O AutoCut aberto pelo ícone e o AutoCut dentro do Final Cut agora são um só: os mesmos ajustes, o que ele aprendeu com você e os mesmos projetos (o que cada lado tinha foi juntado)</li><li>Atalhos e espaço funcionam dentro do Final Cut sem precisar clicar antes no texto; gravar um atalho novo pega a tecla, e &quot;Restaurar padrões&quot; volta tudo</li><li>Procurar atualizações dentro do Final Cut não abre mais uma segunda janela do AutoCut</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.6-teste/AutoCut-Lab-Teste-0.3.6.zip" sparkle:edSignature="VIYSEREKiEZe6nwG8owuxIH6Cjoz+Q0kIJ9l8Z4oqSdUC/PmeKOXK3d8fSnGycuqkmNqurnnIoXcySuStTx7Ag==" length="29474218" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>AutoCut Lab 0.3.5</title>
             <pubDate>Tue, 13 Oct 2026 16:32:00 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
