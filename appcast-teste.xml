@@ -3,6 +3,16 @@
     <channel>
         <title>AutoCut Lab</title>
         <item>
+            <title>AutoCut Lab 0.3.7</title>
+            <pubDate>Tue, 13 Oct 2026 19:00:18 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.3.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Novo: &quot;Estilo do vídeo&quot; no cartão do projeto (Falado para a câmera, Reels com direção, Tutorial de tela, Conversa / entrevista, Vlog em teste) — cada estilo usa as regras que funcionam melhor para ele. O Automático continua como antes, ou escolhe Tutorial/Conversa quando tem certeza</li><li>Correção: com câmera em 29,97 fps numa timeline de 30 fps, os cortes atrasavam no fim do vídeo e sobravam pedacinhos de um quadro</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.7-teste/AutoCut-Lab-Teste-0.3.7.zip" sparkle:edSignature="fkIE87HsHcjyChgswwmuiY4IWwokIEhXx0WeVBsKb7EiORQpWsjb50X4us/LYs8XvIikxY7oeUIA2UpsCnxYCA==" length="29526624" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>AutoCut Lab 0.3.6</title>
             <pubDate>Tue, 13 Oct 2026 18:30:17 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
