@@ -3,6 +3,16 @@
     <channel>
         <title>AutoCut Lab</title>
         <item>
+            <title>AutoCut Lab 0.3.5</title>
+            <pubDate>Tue, 13 Oct 2026 16:32:00 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>0.3.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>A IA não precisa mais ser baixada de novo: o AutoCut encontra a que já está no Mac, aberto direto ou dentro do Final Cut</li><li>Correção: em gravações com vários vídeos, saíam dois espaços vazios seguidos (10 s) e um vídeo a mais sem nada</li><li>Novo: o AutoCut também olha a imagem — frase lida no celular (cabeça para baixo, voz mais baixa) vira sugestão de corte com um ícone de celular; entre duas tentativas iguais fica a que não está tremida ou borrada. Em tutoriais e vlogs o olhar não conta</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.5-teste/AutoCut-Lab-Teste-0.3.5.zip" sparkle:edSignature="afokvNdRJmR5EZbnrAjDWyff5zBxBEOjHGFuidGdCLZq++y3022a1UTRB742AxyMWkEDIeHajzScoQztYMvsCw==" length="29428458" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>AutoCut Lab 0.3.4</title>
             <pubDate>Tue, 13 Oct 2026 11:27:30 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
