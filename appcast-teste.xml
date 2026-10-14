@@ -3,6 +3,16 @@
     <channel>
         <title>AutoCut Lab</title>
         <item>
+            <title>AutoCut Lab 0.3.9</title>
+            <pubDate>Wed, 14 Oct 2026 06:02:14 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>0.3.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Atualizar dentro do Final Cut: &quot;Procurar atualizações&quot; responde no próprio painel e &quot;Atualizar agora&quot; baixa e instala sem abrir o app do AutoCut.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.9-teste/AutoCut-Lab-Teste-0.3.9.zip" sparkle:edSignature="2RAFMcOrJb++fkkw9dURFr8FMBsTwfpteJyrVbBCD43hv6OkIFkuM/gPeaWkG9xMi5+DzaG1SIQUEXAs4tMdBA==" length="29650610" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>AutoCut Lab 0.3.8</title>
             <pubDate>Tue, 13 Oct 2026 19:14:19 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
