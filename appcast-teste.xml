@@ -3,6 +3,16 @@
     <channel>
         <title>AutoCut Lab</title>
         <item>
+            <title>AutoCut Lab 0.3.10</title>
+            <pubDate>Wed, 14 Oct 2026 17:58:35 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>0.3.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Um botão só para mandar ao Final Cut: &quot;Enviar ao Final Cut&quot; ou &quot;Arrastar para um evento&quot;, com uma setinha para trocar.</li><li>Dentro do Final Cut, a janela do AutoCut já abre num tamanho que cabe tudo lado a lado e lembra o tamanho que você deixar.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.10-teste/AutoCut-Lab-Teste-0.3.10.zip" sparkle:edSignature="cRhHGeMB3f+/nukdnAfgJSt2lzu33uNmoNetHoEHyHje5VJllvTlE7SNhSenuibame7XGUR5jtnEeCZQz/cDBA==" length="29677443" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>AutoCut Lab 0.3.9</title>
             <pubDate>Wed, 14 Oct 2026 06:02:14 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
