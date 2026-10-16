@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.24</title>
+            <pubDate>Fri, 16 Oct 2026 23:27:23 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>29</sparkle:version>
+            <sparkle:shortVersionString>0.3.24</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>O menu ao lado de &quot;Arrastar para um evento&quot; / &quot;Enviar ao Final Cut&quot; não encolhe mais depois de abrir (o mesmo vale para os outros menus, como Estilo do vídeo e Traduzir).</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.24-teste/MasterCut-Teste-0.3.24.zip" sparkle:edSignature="D8mE7XopCTqx8nhBYg4rT/0NYKl4iZy0GqPj79sWZIewTCQHPRLW/tU4fk87LXkIW7RNU/AXj2M2KB4L2qXyAA==" length="15262979" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.23</title>
             <pubDate>Fri, 16 Oct 2026 21:40:13 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
