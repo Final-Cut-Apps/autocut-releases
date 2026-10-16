@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.23</title>
+            <pubDate>Fri, 16 Oct 2026 21:40:13 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.3.23</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Instalador novo (.pkg): boas-vindas, termo da versão de teste para aceitar e o passo a passo no fim. Não precisa mais abrir o MasterCut uma vez depois de instalar.</li><li>&quot;Ler o termo completo&quot; agora abre o termo (o link antigo não funcionava).</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.23-teste/MasterCut-Teste-0.3.23.zip" sparkle:edSignature="WKiUsL2n0wrAii0mahxWrqUOfDB6KQsOXYLMA2WqDjXVNWnbsvbcGzQPPu4vu5e6U0y91GkArhqenfrQQjJ7Bw==" length="15262179" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.22</title>
             <pubDate>Fri, 16 Oct 2026 20:38:34 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
