@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.27</title>
+            <pubDate>Sat, 17 Oct 2026 09:19:29 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>0.3.27</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Ícone novo no menu de extensões do Final Cut: só o logo, sem fundo.</li><li>Voltar para a versão anterior com um clique (Ajustes › Atualizações): o MasterCut guarda a versão de antes no seu Mac. Quem vem da 0.3.26 já pode voltar para ela.</li><li>O trecho em revisão (sugestão ou recado para o editor) aparece com um contorno tracejado na transcrição, fácil de achar.</li><li>Frase com o nome de um botão no meio (&quot;E aqui em Animar, …&quot;) não vira mais recado para o editor.</li><li>Quem atualiza do antigo AutoCut Lab: o app não fecha mais sozinho na primeira abertura.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.27-teste/MasterCut-Teste-0.3.27.zip" sparkle:edSignature="ULEbwgiXNFudA0q8N/gP3lLGd37VWf5+ta6YkfylkznQxk0YAh6sXM14/hsxQ2HrKcjXS4DcQaAX+fSMZRu2CQ==" length="14681408" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.24</title>
             <pubDate>Fri, 16 Oct 2026 23:27:23 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
