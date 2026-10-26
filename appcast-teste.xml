@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.34</title>
+            <pubDate>Tue, 27 Oct 2026 13:15:06 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>0.3.34</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>O MasterCut agora usa a sua conta do mastercaption.com: ao abrir, entre com o e-mail e a senha do site. A versão de teste funciona até a data do acesso liberado na sua conta.</li><li>Cada conta pode usar o MasterCut em até 2 Macs. Em Ajustes › Conta você vê os seus Macs e pode tirar este Mac da conta.</li><li>Os relatórios da versão de teste vão com o e-mail da sua conta.</li><li>O fim das palavras não é mais cortado: o &quot;s&quot; final e finais sem voz como &quot;-te&quot; e &quot;-to&quot; ficam inteiros (o corte agora termina onde o som acaba, não onde a transcrição termina).</li><li>A voz de quem dirige a gravação, lendo a frase baixinho por baixo de uma palavra, sai do vídeo e aparece na transcrição como &quot;voz longe do microfone&quot;.</li><li>Gravações com vários Reels seguidos são separadas também quando entre eles só se ouve &quot;Número 4.&quot; ou quando um vídeo termina com uma chamada (&quot;comenta&quot;, &quot;me conta&quot;…) seguida de uma pausa longa.</li><li>Clipes com a velocidade mudada no Final Cut (câmera lenta, acelerado, rampa de velocidade, quadro congelado) aparecem no preview na velocidade certa; antes ficavam de fora e só aparecia o que estava embaixo. Nos cortes eles são divididos junto com o resto.</li><li>Quem atualiza só pela extensão no Final Cut passa a ver o app com o nome MasterCut também na pasta Aplicativos (antes continuava &quot;AutoCut Lab&quot;).</li><li>Instalar o MasterCut por cima de um &quot;AutoCut Lab&quot; já atualizado não deixa mais duas cópias e duas extensões iguais no Final Cut: a cópia mais antiga vai para o Lixo.</li><li>Reabrir a extensão no meio de uma atualização continua a mesma atualização, sem pedir de novo.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.34-teste/MasterCut-Teste-0.3.34.zip" sparkle:edSignature="u9upvw5VaL8n/ClC2VTFN4Mg/I5RpUYOyqXkILQG947GWVjECfEtVpzzqU7tF+RsJg7LboJbdEqiSgkgs07cCw==" length="14580218" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.30</title>
             <pubDate>Sun, 18 Oct 2026 12:32:10 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
