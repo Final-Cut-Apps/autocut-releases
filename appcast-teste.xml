@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.35</title>
+            <pubDate>Thu, 29 Oct 2026 21:30:05 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>0.3.35</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>O idioma do vídeo agora aparece em destaque, logo abaixo do projeto: confira se está certo antes de enviar. Clique para trocar.</li><li>Se quase nada da fala virar texto (vídeo transcrito no idioma errado), o MasterCut avisa e para a edição inteligente, para não cortar fala que ele não entendeu. Escolha o idioma certo e ele transcreve de novo.</li><li>O estilo do vídeo também ficou mais fácil de ver e trocar.</li><li>Cortes para shorts: o MasterCut sugere trechos curtos do vídeo para Reels, TikTok e Shorts (Curto, Médio ou Longo). Eles vão junto quando você envia ou arrasta o projeto para o Final Cut, cada um com o próprio projeto se você quiser.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.35-teste/MasterCut-Teste-0.3.35.zip" sparkle:edSignature="SKX9JOWhdYZP4oN2U/pTfqiYtWsmYLO5YkzwSi0KZUuj38W20X+liDCsC3N0nSYYH3xIs7X46ioq7dYUHGl2CA==" length="14720029" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.34</title>
             <pubDate>Mon, 26 Oct 2026 13:14:38 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
