@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.36</title>
+            <pubDate>Thu, 29 Oct 2026 21:41:15 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>0.3.36</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>O idioma do vídeo é detectado com mais acerto num Mac em outro idioma: o MasterCut agora também testa a língua do seu país, a do app e a do Final Cut (baixa o modelo uma vez, se precisar). Antes, num Mac em inglês, um vídeo em português podia sair transcrito em inglês.</li><li>O idioma só fica guardado para o arquivo quando o MasterCut comparou com outra língua; vídeos que saíram no idioma errado são detectados de novo na próxima análise.</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.36-teste/MasterCut-Teste-0.3.36.zip" sparkle:edSignature="ApszWjm4Lay8jxtiYI58iGW2Wd+rymWrR3xUkWpxW1FdcS20xjiDu5djel+8mnDjfOMSwV/3PliB7C6987ozBA==" length="14718874" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.35</title>
             <pubDate>Thu, 29 Oct 2026 21:30:05 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
