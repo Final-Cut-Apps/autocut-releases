@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.39</title>
+            <pubDate>Mon, 02 Nov 2026 19:42:15 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.3.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Revisão na barra lateral: abas Ajustar e Revisar, com cada sugestão para ouvir, manter ou cortar</li><li>Pontos laranja na timeline: clique para ouvir e revisar a sugestão</li><li>Cortes para shorts num painel próprio, aberto pelo botão &quot;Cortes&quot; no topo</li><li>Estilo do vídeo em destaque, com o novo estilo Podcast</li><li>Cartão &quot;Analisando o seu vídeo&quot; com cada etapa e o tempo que falta</li><li>Downloads da primeira vez numa janela só, e aparência Transparente em Ajustes › Geral</li><li>Correção: a primeira palavra do vídeo às vezes não podia ser cortada</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.39-teste/MasterCut-Teste-0.3.39.zip" sparkle:edSignature="smOdE734wmD0Av/Gak/lwGWEZ+hjeZO0DpSG70SZkT58aL3G8HlzfXjnXMPhz+SjCg4Y4tgQUCuDtbyUfc2DDQ==" length="15123744" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.38</title>
             <pubDate>Mon, 02 Nov 2026 17:26:58 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
