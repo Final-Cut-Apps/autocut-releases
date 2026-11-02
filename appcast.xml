@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
-        <title>AutoCut Lab</title>
+        <title>MasterCut</title>
+        <item>
+            <title>MasterCut 0.3.39</title>
+            <pubDate>Mon, 02 Nov 2026 21:51:55 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.3.39</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Primeira versão oficial do MasterCut</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.39/MasterCut-0.3.39.zip" sparkle:edSignature="l1GhimjVHlu4UDF7QtU7bqD95IktvUOhKzXW01yInkV4ui+2ZhDEJKAJcL3kbTkiPJjUncp5EzyO0+NCMErWAQ==" length="15303197" type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
