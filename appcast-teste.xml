@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.38</title>
+            <pubDate>Mon, 02 Nov 2026 17:26:58 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>0.3.38</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Corrige o MasterCut fechando ao usar o Whisper depois de um download interrompido</li><li>J-cut e L-cut em cada corte (opção no cartão Final Cut Pro)</li><li>Multicam de podcast: o som vem dos microfones quando o Final Cut deixou ligado o som da câmera, e os dois microfones tocam juntos no preview</li><li>Edição inteligente: tira a primeira versão de uma parte refeita, o &quot;deixa eu…&quot;/&quot;opa&quot; de pensar alto e mais recados para o editor; sugere repetições e gaguejos</li><li>Leitura do áudio igual em toda análise e preview mais leve em vídeos longos</li><li>Corrige a 0.3.37, que saiu sem as permissões do app (pasta comum com a extensão, Automação e microfone)</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.38-teste/MasterCut-Teste-0.3.38.zip" sparkle:edSignature="6dLeExv2cnmIYFhLtJEtLTUtar9X/I6pDZCh6a830fLed+yaC0ofT7qfcZzT2Hugg3CWquwHujGw2DnLnvCRAQ==" length="14857837" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.36</title>
             <pubDate>Thu, 29 Oct 2026 21:41:15 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
