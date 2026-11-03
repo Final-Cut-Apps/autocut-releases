@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.40</title>
+            <pubDate>Tue, 03 Nov 2026 22:09:57 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>0.3.40</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edição inteligente ligada desde o começo: tira tentativas repetidas, recomeços e conversa de gravação (dá para desligar em Ajustes › Geral)</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.40-teste/MasterCut-Teste-0.3.40.zip" sparkle:edSignature="cDG9UPei/P6ORj1OPKSPjIYRdJK5VpJ2Ep08/ibVu3yu4BmYpkO7+LnxgAgXw2Wwn5hZoFO/Gn2/Mk2KxMOWAQ==" length="15143287" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.39</title>
             <pubDate>Mon, 02 Nov 2026 19:42:15 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
