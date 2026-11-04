@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.41</title>
+            <pubDate>Wed, 04 Nov 2026 10:35:29 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>0.3.41</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Explicações num &quot;?&quot; ao lado de cada título, no lugar dos textos cinzas</li><li>Ao soltar o projeto, o MasterCut pergunta o estilo do vídeo enquanto já analisa o áudio</li><li>Cartão &quot;Analisando&quot; também ao trocar o estilo, ensinar ou colar o roteiro</li><li>Margem padrão menor (0,10 s): emendas mais secas</li><li>Gaguejos (&quot;Fi Final Cut&quot;) e tentativas ditas com outras palavras saem sozinhos; mais recomeços viram sugestão</li><li>Tutorial em multicam: a câmera quando você olha para ela, a tela quando você olha para o monitor</li><li>A mesma voz em dois arquivos (lapela e gravador) conta como uma pessoa só</li><li>Barra lateral mais curta</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.41-teste/MasterCut-Teste-0.3.41.zip" sparkle:edSignature="YQV9LUmsdJg3MzcqVrvk/WbDwpHu5QfGX07kZ9WgwYe1+p2ex8QH0MwrcoyrnIbZ8fMxcXQfaF4AXsUCqBRMBQ==" length="15295109" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.40</title>
             <pubDate>Tue, 03 Nov 2026 22:09:57 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
