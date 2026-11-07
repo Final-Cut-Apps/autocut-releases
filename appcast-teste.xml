@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 0.3.42</title>
+            <pubDate>Sat, 07 Nov 2026 20:07:50 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>47</sparkle:version>
+            <sparkle:shortVersionString>0.3.42</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Conversa de gravação com teleprompter sai do vídeo (falar da entonação, &quot;vou ter que voltar&quot;, &quot;bem na foto&quot;)</li><li>Aviso ao enviar ou arrastar com a IA ainda editando: enviar quando ela terminar, enviar agora ou esperar</li><li>Com roteiro, o gancho dito várias vezes não sai mais duas vezes no vídeo</li><li>Roteiro sem títulos conta como um vídeo só: sem espaço vazio entre os parágrafos</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v0.3.42-teste/MasterCut-Teste-0.3.42.zip" sparkle:edSignature="f2+w2UeTcOy31qvr+vAmgAAlkZ3yliNzSyN8TzOyo4UmFIIPmptmxsHFOYEfQw5zzCnOYPbbrOFTPRks1H7QCQ==" length="15433393" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.41</title>
             <pubDate>Wed, 04 Nov 2026 10:35:29 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
