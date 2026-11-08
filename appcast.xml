@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 1.0.0</title>
+            <pubDate>Mon, 09 Nov 2026 17:48:52 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>MasterCut 1.0 — versão de lançamento</li><li>Teste grátis de 7 dias: entre com a sua conta e use na hora; no fim, compre ou entre com a conta que comprou</li><li>Ícone novo, no estilo da família Master</li><li>Edição inteligente ligada desde o começo (tira tentativas, bastidor e conversas paralelas)</li><li>Pergunta o tipo de vídeo ao soltar o projeto, enquanto a análise já começa</li><li>Botões &quot;?&quot; com as explicações e barra lateral mais curta</li><li>A mesma voz gravada em dois arquivos (lapela e microfone) não vira mais conversa</li><li>Aviso quando você envia ao Final Cut com a IA ainda editando</li><li>Roteiro sem títulos conta como um vídeo só</li><li>Mais conversa de gravação tirada em vídeos com teleprompter</li><li>&quot;Continuar sem a IA&quot; quando o download não consegue terminar</li><li>Podcasts longos muito mais rápidos de editar</li><li>Suas edições ficam guardadas mesmo fechando com ⌘Q</li><li>Várias correções de travamentos</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v1.0.0/MasterCut-1.0.0.zip" sparkle:edSignature="X9VL428mokcAf1tI/pyX0hlTq83LLuyjHBzRlfXh3gHDbjHZxEK+iMM8kXwtlEC6j4GAblmyB2I9TTT0vKDBAA==" length="15594432" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 0.3.39</title>
             <pubDate>Mon, 02 Nov 2026 21:51:55 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
