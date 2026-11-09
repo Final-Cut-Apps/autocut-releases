@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 1.0.1</title>
+            <pubDate>Mon, 09 Nov 2026 21:08:58 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>O idioma escolhido em Ajustes › Geral volta a valer mesmo quando programas de limpeza (como o CleanMyMac) apagam as traduções do app</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v1.0.1/MasterCut-1.0.1.zip" sparkle:edSignature="NNfKnW6aY4fEGXPk7tn8WuN3nixo4viBXqHvF+dsQOJAMr+yvr7hmvfhSCYnIbASxm1hCT8BZ++aSSCxReXGCg==" length="15940777" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 1.0.0</title>
             <pubDate>Mon, 09 Nov 2026 17:48:52 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
