@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 1.0.2</title>
+            <pubDate>Thu, 12 Nov 2026 17:50:35 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Quem foi liberado como testador não vê mais o selo &quot;Teste · até…&quot; ao lado do nome nem o cartão de teste na barra lateral</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v1.0.2/MasterCut-1.0.2.zip" sparkle:edSignature="RkvDNFWpobNvtdzLxXwwpqwG7qN2jy/yrJdIzlrzEfh9Pdj6guMseW4t9cmQ158iSi0HyOJzqedbT5isM4TnBg==" length="15938782" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 1.0.1</title>
             <pubDate>Mon, 09 Nov 2026 21:08:58 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
