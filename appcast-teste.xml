@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 1.0.3</title>
+            <pubDate>Sat, 14 Nov 2026 10:36:10 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Com um texto selecionado na transcrição, V e Apagar cortam o trecho; apertando de novo, ele volta</li><li>Depois de arrastar o projeto do Final Cut, o teclado já fica com o MasterCut: o espaço toca o vídeo do MasterCut, não a timeline do Final Cut</li><li>Fechar um painel com Enter ou Esc (Ensinar, Relatar problema, renomear um corte) não manda mais o teclado para o Final Cut</li><li>Janela pequena no Final Cut: o aviso &quot;Aumente a janela&quot; tem &quot;Usar a janela pequena&quot;, e os atalhos funcionam também na aba Ajustes</li><li>Em Ajustes › Atalhos, trocar de aba enquanto grava um atalho não prende mais a próxima tecla</li><li>Os downloads da IA e do Whisper tentam de novo sozinhos quando a internet falha</li><li>Quando o vídeo é transcrito no idioma errado, o MasterCut confere o idioma com o Whisper (se baixado) e transcreve de novo no idioma certo</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v1.0.3/MasterCut-1.0.3.zip" sparkle:edSignature="cotF2WE6bmbSQtoXmvZ7FAANdY0pVxwWZsiN0M6J6YfzPx2PhKTvaWBpN34x6xwenL7TFqLrg3mUKnC8qqIPCA==" length="15956836" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 1.0.2</title>
             <pubDate>Thu, 12 Nov 2026 17:50:35 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
