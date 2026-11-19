@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 1.0.4</title>
+            <pubDate>Thu, 19 Nov 2026 15:32:32 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>55</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Pronto para o Final Cut Pro 13: o projeto arrastado do Final Cut 13 é lido no formato novo dele (FCPXML 1.15), e a versão cortada volta sem perder nada do que o Final Cut 13 acrescentou</li><li>Continua funcionando igual no Final Cut Pro 12</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v1.0.4/MasterCut-1.0.4.zip" sparkle:edSignature="jdA1OvHvdtInUUaXhvMPp8STtoL6VhQqzoSDeIwCe3zv9rLgKf/Zvhkohi+2Vb30AZklj4pco3PC2P8aKZjeBQ==" length="15956845" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 1.0.3</title>
             <pubDate>Sat, 14 Nov 2026 10:36:10 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
