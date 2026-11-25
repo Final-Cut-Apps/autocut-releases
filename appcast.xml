@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 1.0.5</title>
+            <pubDate>Wed, 25 Nov 2026 14:29:20 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>69</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Visual novo, mais calmo, com as cores da família Master</li><li>No Final Cut, a janela do MasterCut não encolhe mais a ponto de esconder os botões</li><li>Na aba Timeline: lâmina para cortar na agulha (B ou ⌘B), arrastar as bordas dos cortes e escolher blocos para cortar</li><li>Podcast em multicam: a imagem vai sozinha para a câmera de quem fala, também com um ângulo sincronizado por pessoa ou só com o som misturado da gravação</li><li>Podcast: a câmera com os dois juntos entra quando os dois conversam, como um editor faria</li><li>Podcast: cada pessoa com a sua cor na transcrição</li><li>Podcast com ritmo Natural (a conversa toda fica, só as pausas muito longas encolhem) ou Enxuto; o Automático reconhece o podcast sozinho</li><li>J-cut e L-cut também nas trocas de câmera</li><li>Reels e vídeos falados para a câmera com duas câmeras: o ângulo troca nos cortes, para o pulo não aparecer (chave &quot;Trocar de ângulo nos cortes&quot;)</li><li>O preview mostra a imagem espelhada e o recorte dos clipes dentro de um agrupado</li><li>Fala repetida de propósito não é mais cortada, e um &quot;Errei&quot; no meio da fala tira a tentativa anterior</li><li>Clicar num trecho laranja da transcrição só toca dali; para cortar, use o botão Cortar, selecione o texto ou dê ⌘-clique</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v1.0.5/MasterCut-1.0.5.zip" sparkle:edSignature="rT8bGr8FStEK7pxvWu39d1mwxXBrZYnLqnzS7TBBUb5Bu4iYsK11qxTk7lY2LWZBg2bioJgK7vJ9bBIp78AKBQ==" length="15928339" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 1.0.4</title>
             <pubDate>Thu, 19 Nov 2026 15:32:32 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
