@@ -3,6 +3,16 @@
     <channel>
         <title>MasterCut</title>
         <item>
+            <title>MasterCut 2.0.0</title>
+            <pubDate>Fri, 27 Nov 2026 18:10:01 -0000</pubDate>
+            <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul><li>Edite com a sua IA: no Roteiro, &quot;Exportar para editar com IA&quot; copia a transcrição com as regras para o ChatGPT, o Claude ou outra IA, e &quot;Importar edição feita por IA&quot; segue exatamente o que ela escolheu</li><li>A sua IA também pode sugerir cortes para shorts, que entram no painel Cortes</li><li>&quot;Exportar transcrição&quot; copia só o que fica no vídeo, com os tempos do vídeo cortado</li><li>Gravação com vários Reels: com a edição da sua IA, cada vídeo ganha o espaço entre um e outro</li><li>No &quot;Antes&quot;, a transcrição mostra o vídeo original inteiro, sem cortes nem marcas</li><li>Uma palavra que a transcrição partiu em duas (&quot;mex mexeu&quot;) não perde mais o começo</li></ul>]]></description>
+            <enclosure url="https://github.com/Final-Cut-Apps/autocut-releases/releases/download/v2.0.0/MasterCut-2.0.0.zip" sparkle:edSignature="h/qzZws799E/K51/uXv11HjJODmmbJAUrP2jmScqcYI3xSCStOGFHuNtBHSd3fGdNGccCZkxXHPffpzCHTgJBQ==" length="16549548" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>MasterCut 1.0.5</title>
             <pubDate>Wed, 25 Nov 2026 14:29:20 -0000</pubDate>
             <sparkle:phasedRolloutInterval>1</sparkle:phasedRolloutInterval>
